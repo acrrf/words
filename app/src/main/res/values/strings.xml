@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Words</string>
+    <string name="detail_prefix">detail_prefix</string>
+    <string name="look_up_word">look_up_word</string>
+    <string name="look_up_words">look_up_words</string>
+</resources>
